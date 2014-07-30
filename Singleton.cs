@@ -6,9 +6,6 @@ using System.Text;
 public class Singleton
 {
     private static Singleton instance;
-
-    public MainWindow mainWindow;
-
     private Singleton() 
     {
         ;
